@@ -86,7 +86,7 @@ button.wh-ap-btn::before {
 .whatsapp-pulse {
     width: 60px;
     height: 60px;
-    right: 1500px;
+    right: 10px;
     bottom: 10px;
     background: #10b418;
     position: fixed;
